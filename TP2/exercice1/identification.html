@@ -10,26 +10,29 @@
         <table>
             <tr>
                 <td><label>Login</label></td>
-                <td><input type="text" name="login"></td>
+                <td><input required type="text" name="login"></td>
             </tr>
             <tr>
                 <td><label>Mot de passe</label></td>
-                <td><input type="password" name="password"></td>
+                <td><input required type="password" name="password"></td>
             </tr>
             <tr>
                 <td></td>
                 <td>
-                    <input type="radio" name="enseignant" id="">
+                    <input required type="radio" name="statut" value="enseignant">
                     <label> Enseignant</label>
-                    <input type="radio" name="etudiant" id="">
+                    <input required type="radio" name="statut" value="etudiant">
                     <label> Etudiant</label>
                 </td>
             </tr>
             <tr>
                 <td></td>
-                <td><Button>Chercher</Button></td>
+                <td><button type="submit">Chercher</button></td>
             </tr>
         </table>
     </form>
+    <script>
+        
+    </script>
 </body>
 </html>
