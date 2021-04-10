@@ -1,0 +1,165 @@
+  <!-- Form -->
+        <div class="container">
+            <form action="#" method="GET">
+                <div class="form-group">
+                    <label>Liste des noms de toutes les familles</label>
+                    <select class="form-control" name="famille">
+                <option>Votre choix</option>
+                <option value="Arryn">Arryn</option>
+                <option value="Baratheon">Baratheon</option>
+                <option value="Bolton">Bolton</option>
+                <option value="Frey">Frey</option>
+                <option value="Greyjoy">Greyjoy</option>
+                <option value="Lannister">Lannister</option>
+                <option value="Martell">Martell</option>
+                <option value="Stark">Stark</option>
+                <option value="Targaryen">Targaryen</option>
+                <option value="Tully">Tully</option>
+                <option value="Tyrell">Tyrell</option>
+            </select>
+                </div>
+                <button type="submit" class="btn btn-primary">Voir les informations sur cette famille</button>
+            </form>
+        </div>
+        <!-- /.Form -->
+
+
+
+
+        <!-- First slide-->
+        <div class="carousel-item active">
+
+            <div class="col-md-3  col-sm-12" style="float:left">
+                <div class="card mb-2">
+                    <img class="card-img-top" src="images/arryn.jpeg" alt="">
+                    <div class="card-body text-center">
+                        <h4 class="card-title text-center">Maison Arryn</h4>
+                        <button class="btn btn-primary text-center"><a href="#">Voir Plus...</a></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3  col-sm-12" style="float:left">
+                <div class="card mb-2">
+                    <img class="card-img-top" src="images/Baratheon.jpeg" alt="">
+                    <div class="card-body text-center">
+                        <h4 class="card-title text-center">Maison Baratheon</h4>
+                        <button class="btn btn-primary text-center"><a href="#">Voir Plus...</a></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3  col-sm-12" style="float:left">
+                <div class="card mb-2">
+                    <img class="card-img-top" src="images/Greyjoy.jpeg" alt="">
+                    <div class="card-body text-center">
+                        <h4 class="card-title text-center">Maison Greyjoy</h4>
+                        <button class="btn btn-primary text-center"><a href="#">Voir Plus...</a></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3  col-sm-12" style="float:left">
+                <div class="card mb-2">
+                    <img class="card-img-top" src="images/Lannister.jpeg" alt="">
+                    <div class="card-body text-center">
+                        <h4 class="card-title text-center">Maison Lannister</h4>
+                        <button class="btn btn-primary text-center"><a href="#">Voir Plus...</a></button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.First slide-->
+
+        <!-- Second slide-->
+        <div class="carousel-item">
+
+            <div class="col-md-3  col-sm-12" style="float:left">
+                <div class="card mb-2">
+                    <img class="card-img-top" src="images/Martell.jpeg" alt="">
+                    <div class="card-body text-center">
+                        <h4 class="card-title text-center">Maison Martell</h4>
+                        <button class="btn btn-primary text-center"><a href="#">Voir Plus...</a></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3  col-sm-12" style="float:left">
+                <div class="card mb-2">
+                    <img class="card-img-top" src="images/Stark.jpeg" alt="">
+                    <div class="card-body text-center">
+                        <h4 class="card-title text-center">Maison Stark</h4>
+                        <button class="btn btn-primary text-center"><a href="#">Voir Plus...</a></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3  col-sm-12" style="float:left">
+                <div class="card mb-2">
+                    <img class="card-img-top" src="images/Targaryen.jpeg" alt="">
+                    <div class="card-body text-center">
+                        <h4 class="card-title text-center">Maison Targaryen</h4>
+                        <button class="btn btn-primary text-center"><a href="#">Voir Plus...</a></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3  col-sm-12" style="float:left">
+                <div class="card mb-2">
+                    <img class="card-img-top" src="images/Tully.jpeg" alt="">
+                    <div class="card-body text-center">
+                        <h4 class="card-title text-center">Maison Tully</h4>
+                        <button class="btn btn-primary text-center"><a href="#">Voir Plus...</a></button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.Second slide-->
+
+        <!-- Three slide-->
+        <div class="carousel-item">
+
+            <div class="col-md-3  col-sm-12" style="float:left">
+                <div class="card mb-2">
+                    <img class="card-img-top" src="images/Tyrell.jpeg" alt="">
+                    <div class="card-body text-center">
+                        <h4 class="card-title text-center">Maison Tyrell</h4>
+                        <button class="btn btn-primary text-center"><a href="#">Voir Plus...</a></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3  col-sm-12" style="float:left">
+                <div class="card mb-2">
+                    <img class="card-img-top" src="images/Bolton.jpeg" alt="">
+                    <div class="card-body text-center">
+                        <h4 class="card-title text-center">Maison Bolton</h4>
+                        <button class="btn btn-primary text-center"><a href="#">Voir Plus...</a></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3  col-sm-12" style="float:left">
+                <div class="card mb-2">
+                    <img class="card-img-top" src="images/Frey.jpeg" alt="">
+                    <div class="card-body text-center">
+                        <h4 class="card-title text-center">Maison Frey</h4>
+                        <button class="btn btn-primary text-center"><a href="#">Voir Plus...</a></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3  col-sm-12" style="float:left">
+                <div class="card mb-2">
+                    <img class="card-img-top" src="images/ombre.jpg" alt="">
+                    <div class="card-body text-center">
+                        <h4 class="card-title text-center">Garde de Nuit</h4>
+                        <button class="btn btn-primary text-center"><a href="#">Voir Plus...</a></button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.Three slide-->
