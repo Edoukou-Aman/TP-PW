@@ -36,10 +36,9 @@ p {
 }
 
 #description {
-    min-height: 330vh;
+    min-height: 100px;
     background-image: url("../images/backgr.jpg");
     background-attachment: fixed;
-    clip-path: polygon(100% 0, 100% 90%, 50% 100%, 0 90%, 0 0);
 }
 
 #description h1 {
