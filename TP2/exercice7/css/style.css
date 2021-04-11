@@ -4,8 +4,13 @@
     box-sizing: border-box;
 }
 
-h1 {
+h1,
+h2 {
     font-family: 'Trajan Pro', serif;
+}
+
+h2 {
+    color: black;
 }
 
 header {
@@ -65,4 +70,17 @@ table {
 table th,
 td {
     color: white;
+}
+
+.puce li {
+    list-style-type: square;
+    margin-bottom: 7rem;
+}
+
+.liste li {
+    margin-bottom: 7rem;
+}
+
+.carousel h4 a {
+    color: black;
 }
